@@ -8,7 +8,7 @@ class Config(object):
     OWNER = "1881720028"
     OWNER_USERNAME = "aarctixinc"
     PASSWORD = "arctix123"
-    DATABASE_URL = "mongodb+srv://arctix1:arctix1@whatsapp-db.rlhncul.mongodb.net/?retryWrites=true&w=majority"
+    DATABASE_URL = "mongodb+srv://sibuna123:sibuna123@personalproject.rb8q7.mongodb.net/?retryWrites=true&w=majority&appName=personalProject"
     LOGCHANNEL = "-1002695771838"  # Add channel id as -100 + Actual ID
     GDRIVE_FOLDER_ID = "root"
     USER_SESSION_STRING = ""
