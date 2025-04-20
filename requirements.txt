@@ -4,8 +4,8 @@ hachoir
 Pillow
 psutil
 pymongo
-pyrofork
-pyromod
+pyrogram==2.0.106
+pyromod==2.0.0
 python-dotenv
 requests
 TgCrypto
